@@ -1,5 +1,4 @@
 # Create a Hangman game
-#Step 5
 
 import random
 import hangman_art
@@ -12,7 +11,6 @@ end_of_game = False
 lives = 6
 
 print(hangman_art.logo)
-print(f'Pssst, the solution is {chosen_word}.')
 
 display = []
 for _ in range(word_length):
