@@ -7,6 +7,8 @@ from os import system, name
 game_data = data
 guessed_right = True
 current_score = 0
+print(logo)
+
 
 # Clear the console
 def clear():
@@ -41,11 +43,15 @@ def comparison(final_data):
     global guessed_right
     user_choice = input("Who has more followers? Type 'A' or 'B': ").upper()
 
+    clear()
+
     if user_choice == 'A' and final_data[0]['follower_count'] > final_data[1]['follower_count']:
         current_score += 1
+        print(logo)
         print(f"You're right! Current score: {current_score}.")
     elif user_choice == 'B' and final_data[1]['follower_count'] > final_data[0]['follower_count']:
         current_score += 1
+        print(logo)
         print(f"You're right! Current score: {current_score}.")
     else:
         print(f"Sorry, that's wrong. Final score: {current_score}")
@@ -53,6 +59,4 @@ def comparison(final_data):
 
 
 while guessed_right:
-    print(logo)
-    clear()
     comparison(information())
