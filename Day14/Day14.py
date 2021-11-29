@@ -1,3 +1,5 @@
+# Create a Higher-Lower game using the number of instagram followers
+
 import random
 
 from art import logo, vs
