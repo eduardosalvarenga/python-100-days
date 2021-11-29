@@ -15,3 +15,4 @@
 **Day 13** - Activities related to debugging<br/>
 **Day 14** - Create a Higher-Lower game using the number of instagram followers <br/>
 **Day 15** - Create a Coffee Machine program<br/>
+**Day 16** - Use the files provided (coffee_maker, menu and money_machine) to create the same project from Day 15 (Coffee Machine) but using OOP (Object Oriented Programming)
