@@ -18,3 +18,4 @@
 * **Day 16** - Use the files provided (coffee_maker, menu and money_machine) to create the same project from Day 15 (Coffee Machine) but using OOP (Object Oriented Programming)<br/>
 * **Day 17** - Create a Quiz Game using OOP
 * **Day 18** - Learn how to use modules by creating a Spot Painting by ushing the Colorgram and Turtle package
+* **Day 19** - Create a Turtle Race using the turtle module
