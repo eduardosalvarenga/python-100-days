@@ -20,3 +20,4 @@
 * **Day 18** - Learn how to use modules by creating a Spot Painting by ushing the Colorgram and Turtle package
 * **Day 19** - Create a Turtle Race using the turtle module
 * **Day 20-21** - Create a Snake Game using the Turtle module
+* **Day 22** - Create a Pong Game using the Turtle module
