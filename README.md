@@ -23,3 +23,4 @@
 * **Day 22** - Create a Pong Game using the Turtle module
 * **Day 23** - Create a Crossing Game using the Turtle module
 * **Day 24** - Create a Mail Merge Project using "with open"
+* **Day 24** - Create a Brazil-States-Learning-Game using Pandas and Turtle Library
