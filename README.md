@@ -22,3 +22,4 @@
 * **Day 20-21** - Create a Snake Game using the Turtle module
 * **Day 22** - Create a Pong Game using the Turtle module
 * **Day 23** - Create a Crossing Game using the Turtle module
+* **Day 24** - Create a Mail Merge Project using "with open"
