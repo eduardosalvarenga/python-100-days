@@ -24,3 +24,4 @@
 * **Day 23** - Create a Crossing Game using the Turtle module
 * **Day 24** - Create a Mail Merge Project using "with open"
 * **Day 25** - Create a Brazil-States-Learning-Game using Pandas and Turtle Library
+* **Day 26** - Create a Nato Phonetic Alphabet using List and Dictionary Comprehension with Pandas
