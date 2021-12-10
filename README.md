@@ -27,3 +27,4 @@
 * **Day 26** - Create a Nato Phonetic Alphabet using List and Dictionary Comprehension with Pandas
 * **Day 27** - Create a Mile to KM converter using Tkinter
 * **Day 28** - Create a Pomodoro Software using Tkinter
+* **Day 29** - Create a password manager/generator
