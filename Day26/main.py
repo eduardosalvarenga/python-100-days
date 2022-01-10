@@ -8,8 +8,16 @@ data = pandas.DataFrame(nato_phonetic_alphabet)
 
 nato_dictionary = {row.letter: row.code for (index, row) in data.iterrows()}
 
-user_word = input("Enter a word: ").upper()
+def generate_phonetic():
+    user_word = input("Enter a word: ").upper()
 
-phonetic_list = [nato_dictionary.get(letter) for letter in user_word]
+    try:
+        phonetic_list = [nato_dictionary.get(letter) for letter in user_word]
+    except KeyError:
+        print("Sorry, only letters in the alphabet please.")
+        generate_phonetic()
+    else:
+        print(phonetic_list)
 
-print(phonetic_list)
+
+generate_phonetic()
