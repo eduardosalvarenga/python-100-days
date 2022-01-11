@@ -29,3 +29,4 @@
 * **Day 28** - Create a Pomodoro Software using Tkinter
 * **Day 29** - Create a password manager/generator
 * **Day 30** - Errors, exceptions and Json Data: Improving Day26 and Day29
+* **Day 31** - Create a flashcard program
