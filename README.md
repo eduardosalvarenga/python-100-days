@@ -30,3 +30,4 @@
 * **Day 29** - Create a password manager/generator
 * **Day 30** - Errors, exceptions and Json Data: Improving Day26 and Day29
 * **Day 31** - Create a flashcard program
+* **Day 31** - Create an automated "Happy Birthday" email sender with smtplib
