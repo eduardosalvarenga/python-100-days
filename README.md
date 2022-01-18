@@ -32,3 +32,4 @@
 * **Day 31** - Create a flashcard program
 * **Day 32** - Create an automated "Happy Birthday" email sender with smtplib
 * **Day 33** - Create an App where you consult an API and use it's JSON responses
+* **Day 34** - Create a GUI Api Quiz (Update the Day 17 game)
